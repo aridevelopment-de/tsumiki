@@ -1,1 +1,1 @@
-screen -L -S bot-tsumiki -d -m /usr/bin/python3 main.py
+screen -L -S bot-tsumiki -d -m python3.10 main.py
